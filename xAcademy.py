@@ -8,7 +8,7 @@ pName = 'xAcademy'
 pVersion = '0.1.10'
 pUrl = 'https://raw.githubusercontent.com/JellyBitz/phBot-xPlugins/master/xAcademy.py'
 
-# Ex.: CUSTOM_NAME = "Jelly"
+# Ex.: CUSTOM_NAME = "Jely"
 # will try to create "Jelly100","Jelly101","Jelly102"
 CUSTOM_NAME = "" # Will be random if you leave it empty
 SEQUENCE_START_NUMBER = 100
